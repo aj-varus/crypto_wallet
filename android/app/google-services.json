@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "166837641778",
+    "project_id": "crypto-wallet-81dea",
+    "storage_bucket": "crypto-wallet-81dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166837641778:android:29183ebff6ee4f3bb8522b",
+        "android_client_info": {
+          "package_name": "com.example.crypto_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166837641778-o79jau53a97p2j1144r7i77gp6kqt19i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUR0lUs-hnbA-RX6apLVDBy1Gl5YDwMOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166837641778-o79jau53a97p2j1144r7i77gp6kqt19i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "166837641778-1af2smqk3sqimf92lpuo50ougj4gomu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cryptoWallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
