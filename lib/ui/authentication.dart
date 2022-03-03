@@ -55,7 +55,7 @@ class _AuthenticationState extends State<Authentication> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(top: 8.0, bottom: 8.0),
+              padding: const EdgeInsets.fromLTRB(8.0, 8.0, 8.0, 8.0),
               child: Container(
                 width: double.infinity,
                 height: 55,
@@ -69,7 +69,7 @@ class _AuthenticationState extends State<Authentication> {
               ),
             ),
             Padding(
-              padding: const EdgeInsets.only(top: 8.0, bottom: 8.0),
+              padding: const EdgeInsets.fromLTRB(8.0, 8.0, 8.0, 8.0),
               child: Container(
                 width: double.infinity,
                 height: 55,
